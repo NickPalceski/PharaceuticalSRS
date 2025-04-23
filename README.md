@@ -9,8 +9,8 @@ Clinton Oho,
 Evan Barbur
 
 # Features
--Functional Requirements
--Non-Functional Requirements
--UML Diagrams:
+- Functional Requirements
+- Non-Functional Requirements
+- UML Diagrams:
  - Use Case Diagram
  - ER Diagram
