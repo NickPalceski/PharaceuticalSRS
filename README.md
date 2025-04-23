@@ -2,7 +2,7 @@
 A partially complete pharmaceutical SRS document.
 
 # Contributors
-Nicholas Palceski
+Nicholas Palceski/n
 Connor Plonka
 Daniel Lowry
 Clinton Oho
